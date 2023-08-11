@@ -1,2 +1,2 @@
 # tareas_detallado_software
-Repositorio donde albergare mis tareas del ramo
+Repositorio donde albergare mis rekias tareas del ramo
